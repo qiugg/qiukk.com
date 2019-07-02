@@ -57,7 +57,7 @@
     </head>
 <script>
 function mrc() {
-var butong_net = new Array('www.98maoav.com','www.97maoav.com','www.96maoav.com','www.95maoav.com','www.94maoav.com','www.93maoav.com','www.92maoav.com','www.91maoav.com','www.90maoav.com'); 
+var butong_net = new Array('www.qiukk99.com','www.qiukk98.com','www.qiukk97.com','www.qiukk96.com','www.qiukk95.com','www.qiukk94.com','www.qiukk93.com','www.qiukk92.com','www.qiukk91.com'); 
 var butong_net2 = Math.floor(Math.random() * butong_net.length); 
 var text = document.getElementById("text");
 text.firstChild.nodeValue = butong_net[butong_net2];
@@ -66,33 +66,32 @@ window.onload = mrc;
 </script>
     <body>
         <div class="main">
-	 <h1>猫咪av最新地址发布-猫咪AV</h1>
+	 <h1>求看看最新地址发布-求AV</h1>
             <div class="content">
                 <div class="content-top">
                     <h2>请大家 Ctrl+D 收藏本页</h2>
                     <ul>
                         <li>
-                            猫咪AV最新地址
-                          <a href="https://www.tuav95.com/index.html" target="_blank"><i><p id="text">域名</p></i></a>
+                           求看看-最新地址
+                          <a href="https://qiukk93.com" target="_blank"><i><p id="text">域名</p></i></a>
                         </li>
                         <li>
-                             猫咪AV备用地址
-                            <a href="https://98maoav.com" target="_blank">https://98maoav.com</a>
-                            <a href="https://tuav96.com" target="_blank">https://tuav96.com</a>
-			     <a href="https://tuav97.com" target="_blank">https://tuav97.com</a>
-			   <a href="https://tuav93.com" target="_blank">https://tuav93.com</a>
-			  <a href="https://tuav94.com" target="_blank">https://tuav94.com</a>
+                             求看看-备用地址
+                            <a href="https://qiukk98.com" target="_blank">https://qiukk9.com</a>
+                            <a href="https://qiukk97.com" target="_blank">https://qiukk10.com</a>
+			     <a href="https://qiukk96.com" target="_blank">https://qiukk11.com</a>
+			   <a href="https://qiukk95.com" target="_blank">https://qiukk8.com</a>
+			  <a href="https://qiukk94.com" target="_blank">https://qiukk7.com</a>
                         </li>
                         <li>
-                             猫咪AV海外永久地址
-                            <a id="go" href="https://tuav90.com" target="_blank">https://www.maomidy.com</a>
+                           求看看-海外永久地址
+                            <a id="go" href="https://qiukk.com" target="_blank">https://www.qiukk.com</a>
+				<a id="go" href="https://qiugg.com" target="_blank">https://www.qiugg.com</a>
                         </li>
 
                     </ul>
                     <p>如果以上地址均无法打开，欢迎发送邮件告知： <br />
-                       maomiavdy@gmail.com<br />
-		       tuav66@gmail.com<br />
-		       tuav33@gmail.com<br />
+                       qiukk99@gmail.com<br />
                         会自动回复最新地址！</p>
                 </div>
             </div>
